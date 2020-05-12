@@ -1,0 +1,17 @@
+.display{
+padding: 0px;
+
+}
+
+.img-icon {
+    width: 130px;
+    height: 130px;
+    shape-outside: circle();
+    border-radius: 200px;
+    display:-webkit-inline-flex;
+
+}
+
+.cont-border{
+    border: 1px solid gray;
+}

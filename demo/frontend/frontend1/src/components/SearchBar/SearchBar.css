@@ -1,0 +1,18 @@
+.pb-4 input[type="text"]:focus:not([readonly]) {
+    border: 1px solid #C0C0C0;
+    box-shadow: 0 0 0 1px #C0C0C0;
+}
+.pb-4 input[type="text"] {
+    border: 1px solid #C0C0C0;
+    box-shadow: 0 0 0 1px #C0C0C0;
+}
+
+.btn-rounded{
+    background: #ffa500;
+}
+.ml-2{
+    background: #C0C0C0;
+}
+.h1-color{
+    color: white;
+}

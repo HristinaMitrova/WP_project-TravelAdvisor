@@ -1,0 +1,40 @@
+.menu-text{
+    font-size:1em;
+    color:#028695;
+}
+
+.menu-brand{
+    color: #028695;
+}
+.logo{
+    width: 5%;
+    height: 5%;
+}
+img{
+    width: 9%;
+    height: 9%;
+}
+.menu-brand:hover{
+    text-decoration: none;
+    color:#028695;
+}
+
+.menu-text-brand{
+    display: inline-block;
+    vertical-align: bottom;
+    padding-bottom: 3%;
+    font-size: 1.6em;
+}
+
+.menu-bg{
+    background:#ffa500;
+
+}
+
+.li-menu-padding{
+    padding-left: 15px;
+}
+
+.nav-link:hover{
+    color:#028695;
+}

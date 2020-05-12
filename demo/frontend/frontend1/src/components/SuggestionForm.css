@@ -1,0 +1,30 @@
+.formDonate{
+    position: center;
+    border-color: black;
+}
+form{
+    //border:solid;
+    //border-color: #243665;
+    width: 30%;
+    height: 50%;
+    position: center;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+label{
+color: #243665;
+
+}
+input{
+    width:80%;
+}
+.kopce{
+    position: center;
+}
+.content-hr{
+    background: #243665;
+    width: 50%;
+    padding-bottom: 2px;
+    margin-bottom: 35px;
+    margin-top: 0;
+}

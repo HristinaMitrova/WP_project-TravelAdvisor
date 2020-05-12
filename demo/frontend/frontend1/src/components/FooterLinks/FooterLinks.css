@@ -1,0 +1,30 @@
+.links-display{
+    display: inline-block;
+    width: 33%;
+}
+
+.ul-links{
+    list-style-type: none;
+    color: #028695 !important;
+    font-size: 1em;
+}
+
+.li-item:hover{
+    color: #028695;
+    cursor: pointer;
+}
+
+.active-pink-btn{
+    background: #C0C0C0;
+}
+
+.btn-text{
+    color: #ffa500;
+    cursor: pointer;
+     color: #028695!important;
+}
+
+.btn-footer-link{
+    text-align: center;
+}
+

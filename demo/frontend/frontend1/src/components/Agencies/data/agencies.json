@@ -1,0 +1,789 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "NAME": "ETC travel",
+        "NAME_FR": "Planchodrome Bearbrook",
+        "ADDRESS": "Васил Главинов 3",
+        "ADDRESS_FR": "8720, chemin Russell",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "02 3214440",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.996399, 21.427639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1219,
+        "FACILITYID": 28001,
+        "NAME": "Iguana travel",
+        "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
+        "ADDRESS": "8-ма Ударна Бригада 39",
+        "ADDRESS_FR": "1490, promenade Youville",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "02 3232135",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Community: mid size facility to service population of 40,000 plus",
+        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
+        "DESCRIPTIO": "Flat asphalt surface, 10 components, City run learn to skateboard programs, City run skateboard camps in summer",
+        "DESCRIPT_1": "Surface d'asphalte plane, 10 modules, programmes et camps de planche à roulettes en été géré par la Ville",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.995573, 21.428772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1157,
+        "FACILITYID": 28002,
+        "NAME": "Savana Tours",
+        "NAME_FR": "Planchodrome Walter-Baker",
+        "ADDRESS": "Орце Николов 20",
+        "ADDRESS_FR": "100, place Charlie Rogers",
+        "FACILITY_T": "bowl",
+        "FACILITY_1": "bol",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": " 02 3114206",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Community : mid size facility to service population of 40,000 plus",
+        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
+        "DESCRIPTIO": "Concrete bowl, 7,000 sq ft",
+        "DESCRIPT_1": "Bol de béton, 7 000 pi2",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.99775, 21.429604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 9,
+        "FACILITYID": 28006,
+        "NAME": "Lim Bus",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": "Илинденска 43 Tetovo",
+        "ADDRESS_FR": "2785, chemin 8th Line",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "071 252929",
+        "OPEN": null,
+        "NOTES": "Outdoor - Mobile",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Metcalfe Community Centre - Roving Skateboard Park Location",
+        "FACILITY_F": "Centre communautaire de Metcalfe - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.007755, 20.96923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1160,
+        "FACILITYID": 28007,
+        "NAME": "Shar Ekspres",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": "ТЦ Палма Мол Tetovo",
+        "ADDRESS_FR": "10, ruelle Warner Colpitts",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "yes/oui",
+        "ACCESSIBLE": "044 350382",
+        "OPEN": null,
+        "NOTES": "Indoor - Summer",
+        "MODIFIED_D": "2018/03/07",
+        "CREATED_DA": null,
+        "FACILITY": "Johnny Leroux Stittsville Community Arena - Roving Skateboard Park Location",
+        "FACILITY_F": "Aréna communautaire de Stittsville Johnny-Leroux - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.0044, 20.989593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1693,
+        "FACILITYID": 28016,
+        "NAME": "Metfil Kocani",
+        "NAME_FR": "Planchodrome Legacy",
+        "ADDRESS": "Кеј на Револуцијата 22",
+        "ADDRESS_FR": "101, promenade Centrepointe",
+        "FACILITY_T": "bowl",
+        "FACILITY_1": "bol",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "033 270608",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "District: larger facility to service population of 100,000 plus",
+        "FACILITY_F": "De district : grande installation assurant des services à 100 000 résidents ou plus.",
+        "DESCRIPTIO": "Large concrete bowl, many street and vertical components, 17,000 sq ft",
+        "DESCRIPT_1": "Grand bol de béton, modules de rue et modules verticaux, 17 000 pi2",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.917825, 22.411951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1717,
+        "FACILITYID": 28018,
+        "NAME": "Atlantis Strumica",
+        "NAME_FR": "Planchodrome de Greenboro",
+        "ADDRESS": "Димитар Влахов 18",
+        "ADDRESS_FR": "3142, chemin Conroy",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "034 346212",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.436353, 22.638467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 137,
+        "FACILITYID": 28019,
+        "NAME": "Mediteran (Stip)",
+        "NAME_FR": "Planchodrome Bridlewood",
+        "ADDRESS": "Ванчо Прке 121 лок.20",
+        "ADDRESS_FR": "65, promenade Stonehaven",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": " 070 210219",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.738906, 22.195011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1133,
+        "FACILITYID": 28020,
+        "NAME": "VI travel",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": "Тошо Арсов 59 ",
+        "ADDRESS_FR": "100, rue Clifford-Campbell",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "078 419995",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Fitzroy Harbour Community Centre - Roving Skateboard Park Location",
+        "FACILITY_F": "Centre communautaire de Fitzroy Harbour - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.737503, 22.190685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 657,
+        "FACILITYID": 28000,
+        "NAME": "Grand Travel Stip",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": " Кирил и Методиј 58",
+        "ADDRESS_FR": "110, promenade Malvern",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "070 264192",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Walter Baker Sports Centre - Roving Skateboard Park Location",
+        "FACILITY_F": "Centre sportif Walter-Baker - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.738635, 22.192912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 653,
+        "FACILITYID": 28008,
+        "NAME": "Dajo Turs",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": "Стоковна куќа",
+        "ADDRESS_FR": "5660, rue Osgoode Main",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "043 370568",
+        "OPEN": null,
+        "NOTES": "Outdoor - Mobile",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Osgoode Community Centre - Roving Skateboard Park Location",
+        "FACILITY_F": "Centre communautaire d'Osgoode - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.484162, 22.089793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 812,
+        "FACILITYID": 35050,
+        "NAME": "JK Travel",
+        "NAME_FR": "Planchodrome Charlie-Bowins",
+        "ADDRESS": "Добривое Радосавлевиќ 22",
+        "ADDRESS_FR": "435, avenue Bronson",
+        "FACILITY_T": "bowl",
+        "FACILITY_1": "bol",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "078 212122",
+        "OPEN": null,
+        "NOTES": "Outdoor (Commemoratively named Charlie Bowins Skateboard Park on June 10, 2015)",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2015/05/20",
+        "FACILITY": "District: larger facility to service population of 100,000 plus",
+        "FACILITY_F": "De district : grande installation assurant des services à 100 000 résidents ou plus.",
+        "DESCRIPTIO": "Flat concrete surface, 10 plus components (large half pipe), City run learn to skateboard programs, City run skateboard camps in summer",
+        "DESCRIPT_1": "Surface de béton plane, 10 modules ou plus (grande demi-lune), programmes et camps de planche à roulettes en été géré par la Ville",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.031884,21.328756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2457,
+        "FACILITYID": 35637,
+        "NAME": "S Travel",
+        "NAME_FR": "Planchodrome Jubilé de Diamant",
+        "ADDRESS": "Моша Пијаде 8",
+        "ADDRESS_FR": "2810, promenade Findlay Creek",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "071 207500",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2017/07/11",
+        "CREATED_DA": "2016/06/22",
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.032485, 21.336301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 430,
+        "FACILITYID": 28005,
+        "NAME": "Orbita",
+        "NAME_FR": "Planchodrome Blackburn",
+        "ADDRESS": " Марјан Божиновски 68-а (Далматинска)",
+        "ADDRESS_FR": "190, promenade Glen Park",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "047 523523",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.032335, 21.338154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 989,
+        "FACILITYID": 28017,
+        "NAME": "Karadza Tours",
+        "NAME_FR": "Planchodrome Goulbourn",
+        "ADDRESS": "Никола Тесла 18",
+        "ADDRESS_FR": "1500, chemin Shea",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "075 342757",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 6 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 6 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.030761, 21.337258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1334,
+        "FACILITYID": 28011,
+        "NAME": "Tim Travel",
+        "NAME_FR": "Planchodrome Constance Bay",
+        "ADDRESS": "Филип II Македонски 30, комплекс Безистен",
+        "ADDRESS_FR": "262, promenade Len-Purcell",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "075 237728",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.032118, 21.335211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 923,
+        "FACILITYID": 28013,
+        "NAME": "Ana Tours Internacional",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": " Комплекс Безистен б.б.",
+        "ADDRESS_FR": "334, chemin River",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "047 242902",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Eccolands Park - Roving Skateboard Park Location",
+        "FACILITY_F": "Parc Eccolands - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.031777, 21.335147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 762,
+        "FACILITYID": 28004,
+        "NAME": "Martin Travel",
+        "NAME_FR": "Planchodrome de Park Trillium",
+        "ADDRESS": "Борис Трајковски 18 (Ленинова)",
+        "ADDRESS_FR": "2030, chemin Ogilvie",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "078 383803",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat asphalt surface, 5 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.717898,21.767588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 52,
+        "FACILITYID": 35120,
+        "NAME": "Atlantis Veles",
+        "NAME_FR": "Planchodrome Lansdowne",
+        "ADDRESS": "Раштански Пат 12",
+        "ADDRESS_FR": "450, promenade Queen Elizabeth",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "071 677200",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2017/07/11",
+        "CREATED_DA": "2015/09/23",
+        "FACILITY": "A series of skateboard ramps ideally suited to beginners.",
+        "FACILITY_F": "Une série de rampes adaptées parfaitement aux débutants.",
+        "DESCRIPTIO": "Flat asphalt surface",
+        "DESCRIPT_1": "Survace d'asphalte plane",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.714389, 21.758734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2488,
+        "FACILITYID": 35815,
+        "NAME": "Jadran",
+        "NAME_FR": "Planchodrome Greely Village",
+        "ADDRESS": "Никола Карев 20 лок.17",
+        "ADDRESS_FR": "7292, chemin Parkway",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "02 2466721",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/04",
+        "CREATED_DA": "2017/04/28",
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat concrete surface, 5 components",
+        "DESCRIPT_1": "Surface de béton plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.997421, 21.429289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 330,
+        "FACILITYID": 28003,
+        "NAME": "Balkan Express Travel",
+        "NAME_FR": "Planchodrome Manotick",
+        "ADDRESS": "Balkan Ekspres Travel",
+        "ADDRESS_FR": "5572, promenade Doctor-Leach",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "yes/oui",
+        "ACCESSIBLE": "078 280004",
+        "OPEN": null,
+        "NOTES": "Outdoor - Joined with basketball",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Community: mid size facility to service population of 40,000 plus",
+        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
+        "DESCRIPTIO": "Flat asphalt surface, 8 components",
+        "DESCRIPT_1": "Surface d'asphalte plane, 8 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.985627,21.465387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 693,
+        "FACILITYID": 28010,
+        "NAME": "Pilot Travel",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": "Св.Кирил и Методиј б.б. (М.Х.Јасмин)",
+        "ADDRESS_FR": "1448, promenade Meadow",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "02 3231556",
+        "OPEN": null,
+        "NOTES": "Outdoor - Mobile",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Andy Shields Park - Roving Skateboard Park Location",
+        "FACILITY_F": "Parc Andy-Shields - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.994401, 21.42015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2544,
+        "FACILITYID": 35667,
+        "NAME": "Delfina Tours",
+        "NAME_FR": "Planchodrome Berrigan",
+        "ADDRESS": "Битпазарска 22",
+        "ADDRESS_FR": "51, promenade Berrigan",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "046 260420",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/02/27",
+        "CREATED_DA": "2016/06/27",
+        "FACILITY": "Community: mid size facility to service population of 40,000 plus",
+        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
+        "DESCRIPTIO": "Flat concrete surface, 10 plus components",
+        "DESCRIPT_1": "Surface de béton plane, 10 modules ou plus",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.00113, 21.43768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2599,
+        "FACILITYID": 49251,
+        "NAME": "Eugène Martineau Skateboard Park",
+        "NAME_FR": "Planchodrome Eugène-Martineau",
+        "ADDRESS": "710 Mikinak Road",
+        "ADDRESS_FR": "710, chemin Mikinak",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "yes/oui",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/11/29",
+        "CREATED_DA": "2018/11/29",
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.632030968141081, 45.450696284941976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2278,
+        "FACILITYID": 49211,
+        "NAME": "Vista Skateboard Park",
+        "NAME_FR": "Planchodrome Vista",
+        "ADDRESS": "720 Vistapark Drive",
+        "ADDRESS_FR": "720, promenade Vistapark",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "yes/oui",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/11/29",
+        "CREATED_DA": "2018/06/22",
+        "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Flat surface, 5 components",
+        "DESCRIPT_1": "Surface plane, 5 modules",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.471003922143311, 45.450391044010431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2113,
+        "FACILITYID": 35299,
+        "NAME": "Royal Star Tours",
+        "NAME_FR": "Planchomdrome Innovation",
+        "ADDRESS": "Св.Кирил и Методиј 12/1 (М.Х.Јасмин)",
+        "ADDRESS_FR": "4101, promenade Innovation",
+        "FACILITY_T": "bowl",
+        "FACILITY_1": "bol",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "02 3239132",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2017/07/11",
+        "CREATED_DA": "2016/02/08",
+        "FACILITY": "District: larger facility to service population of 100,000 plus",
+        "FACILITY_F": "De district : grande installation assurant des services à 100 000 résidents ou plus.",
+        "DESCRIPTIO": "Large concrete bowl, 10 plus components, many street and vertical components",
+        "DESCRIPT_1": "Grand bol de béton, 10 modules ou plus, modules de rue et modules verticaux",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.994285, 21.407065]
+      }
+    }
+  ]
+}
