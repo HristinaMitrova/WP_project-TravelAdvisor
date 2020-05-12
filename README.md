@@ -34,7 +34,7 @@ React.js
 
 
 
-За стартување на backend делот потребно е да се стартува DemoApplication.java класата, а за frontend делот потребно е да се навигира во фолдерот frontend1, да се инсталирааат потребните зависности (опционално) за react (npm install), и со npm start да се стартува React апликацијата (која може да се тестира во browser на http://localhost:3000/ ).
+За стартување на backend делот потребно е да се стартува DemoApplication.java класата (demo/src/main/java/com/example/demo/DemoApplication.java), а за frontend делот потребно е да се навигира во фолдерот frontend1, да се инсталирааат потребните зависности (опционално) за react (npm install), и со npm start да се стартува React апликацијата (која може да се тестира во browser на http://localhost:3000/ ).
 
 Развојна околина и за frontened и за backend која ја користев: IntelliJ, а за базата MySQL Workbench 8.0 CE.
 
