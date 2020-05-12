@@ -31,6 +31,24 @@ React.js
 
 Во директориумот со име frontend1 е сместен истоимениот дел.
 Функционалности: CRUD functionalties, chatbot кој нуди совети околу избор на дестинација, мапирање на туристички агенции на мапата на нашата држава, автентикација на корисник со Firebase при логирање и регистрација, пребарување на постоечки аранжмани преку Search компонента,можност за додавање на слика во Reviews со drag&drop, Geo-chart со кој е претставена атрактивноста на дестинацијата според geo мапирање.
+Дополнителни технологии:
+    "axios",
+    "react-fontawesome",
+    "bootstrap",
+    "react-bootstrap",
+    "reactstrap",
+    "styled-components",
+    "firebase",
+    "moment",
+    "react-dom",
+    "react-dropzone",
+    "react-google-charts",
+    "react-map-gl",
+    "react-responsive-carousel",
+    "react-router-dom",
+    "react-simple-chatbot".
+    
+   
 
 
 
